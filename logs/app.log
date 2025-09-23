@@ -1,0 +1,5 @@
+2025-09-24 00:51:26 | INFO | __main__:41 | ✅ Access token actif jusqu’à 2025-09-24 06:23:02
+2025-09-24 00:51:28 | INFO | __main__:27 | Page 1 récupérée (50 activités)
+2025-09-24 00:51:30 | INFO | __main__:27 | Page 2 récupérée (50 activités)
+2025-09-24 00:51:32 | INFO | __main__:27 | Page 3 récupérée (50 activités)
+2025-09-24 00:51:32 | INFO | __main__:37 | ✅ 150 activités sauvegardées dans data/strava_activities.csv
